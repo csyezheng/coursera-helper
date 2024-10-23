@@ -49,7 +49,7 @@ import re
 import time
 import shutil
 
-from distutils.version import LooseVersion as V
+from packaging.version import Version as V 
 
 
 # Test versions of some critical modules.

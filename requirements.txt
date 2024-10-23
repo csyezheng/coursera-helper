@@ -8,3 +8,4 @@ configargparse>=0.12.0
 attrs==18.1.0
 playwright>=1.38.0
 browser_cookie3>=0.19.1
+packaging>=24.1
